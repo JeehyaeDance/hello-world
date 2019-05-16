@@ -1,2 +1,5 @@
 # hello-world
-new repository
+
+Hi! I', Jeehyae Dance!
+
+I live with my husband 'Keevan' and my dog 'Samba'. 
